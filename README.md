@@ -12,7 +12,7 @@ Prática da terceira semana da disciplina de Análise de Redes (IMD1155), minist
 
 ## :man_technologist: Autores:
 
-- #### Carlos Vinícius dos Santos - [@carlos1999](https://github.com/carlos19999)
+- #### Carlos Vinícius dos Santos - [@carlos1999](https://github.com/carlos1999)
 
 - #### Hugo Felipe dos Santos - [@hugofsantos](https://github.com/hugofsantos)
 
